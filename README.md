@@ -1,4 +1,4 @@
-# Data Challenge 2 - Group 11
+# Data Challenge 2 - Group 17
 
 ### Requirments
 Before running the code, the csv 'all-regions.csv' needs to be placed in the same folder as the notebook.
